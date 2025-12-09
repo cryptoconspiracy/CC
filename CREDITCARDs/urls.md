@@ -6,7 +6,7 @@ Use this as a reference when choosing cards for travel, everyday spending, or co
 
 ---
 
-## 1. Ether.fi / Kast  
+## 1. Ether.fi
 **Link:** https://www.ether.fi/refer/f58c51f4 
 
 A global crypto card solution with strong benefits, especially for travelers.
