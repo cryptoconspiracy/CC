@@ -117,6 +117,23 @@ Always test with a low amount before relying on it.
 
 ---
 
+## 9. KartaCard (Telegram App)
+**link:** https://karta.social/e4dda27315
+
+Super-fast Telegram app with instant balance updates in Telegram messages.
+Visa Signature card:
+**Main perks:**  
+- 25% discount on luxury hotel daily rates  
+- 5% cashback on purchases (sometimes boosted to 10% during campaigns)  
+- International medical insurance  
+- Lost luggage insurance  
+- Delayed baggage insurance  
+- Rental car insurance  
+- Extended warranty for electronics  
+- Airport lounge access  
+- Discounts at airport restaurants and cafés  
+- Seamless crypto-to-fiat spending  
+
 # General Notes About Crypto Debit Cards
 
 Crypto debit cards convert your crypto into fiat at the time of purchase, allowing you to spend them like regular money.
